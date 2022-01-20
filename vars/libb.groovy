@@ -1,4 +1,4 @@
 def displayEnv(script) {
  println "Shared lib var/lib FOO=${FOO}"
- MyClass c = new MyClass(script)
+ myclass c = new myclass(script)
 }
